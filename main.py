@@ -1,7 +1,7 @@
 from flask import Flask
 
 app = Flas(__name__)
-app.secret_key = "dasfadsfaf"
+app.secret_key = "my_secret_key_version4"
 
 #new branch
 
